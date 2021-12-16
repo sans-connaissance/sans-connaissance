@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sans-connaissance
+- 👋 Hi, I’m David Malicke
 - 👀 I’m interested in iOS Software Development.
 - 💞️ I’m looking to collaborate on iOS apps with a unique perspective.
 - 📫 email me at frankfurtindustries@icloud.com
